@@ -1,6 +1,9 @@
 ## Hi there 👋
+Hey there! I’m Pranav, a data analyst passionate about turning complex data into clear, actionable insights. 
+I love finding the secrets hidden within the numbers. When I’m not working with data, I’m likely to be working out, spending time with close ones, or exploring the trends. 
+Let’s connect and dive into the power of data together!
 
-<!--
+
 **ipranavbansal/ipranavbansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
