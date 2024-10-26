@@ -1,6 +1,7 @@
-## Hi there 👋
-Hey there! I’m Pranav, a data analyst passionate about turning complex data into clear, actionable insights. 
-I love finding the secrets hidden within the numbers. When I’m not working with data, I’m likely to be working out, spending time with close ones, or exploring the trends. 
+## Hi there! I’m Pranav, 👋
+a data analyst passionate about turning complex data into clear, actionable insights. 
+I love finding the secrets hidden within the numbers. 
+When I’m not working with data, you’ll likely find me working out, spending time with loved ones, or exploring the latest trends.
 Let’s connect and dive into the power of data together!
 
 
