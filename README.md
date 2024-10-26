@@ -4,7 +4,7 @@ I love finding the secrets hidden within the numbers.
 When I’m not working with data, you’ll likely find me working out, spending time with loved ones, or exploring the latest trends.
 Let’s connect and dive into the power of data together!
 
-
+<--
 **ipranavbansal/ipranavbansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
