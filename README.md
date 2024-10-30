@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">All about data!</h3>
+<h1>Hi 👋, I'm Pranav</h1>
+<h3>All about data!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipranavbansal&label=Profile%20views&color=0e75b6&style=flat" alt="ipranavbansal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ipranavbansal" target="blank"><img src="https://img.shields.io/twitter/follow/ipranavbansal?logo=twitter&style=for-the-badge" alt="ipranavbansal" /></a> </p>
 
 - 📫 How to reach me **ipranavbansal@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
