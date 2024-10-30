@@ -1,9 +1,9 @@
-<h3 align="center">Hi 👋, I'm Pranav</h1>
-<h5 align="center">Data enthusiast on a quest to decode the stories behind the numbers. Let’s turn insights into impact!</h3>
+<h3>Hi, I'm Pranav</h1>
+<h5>Data enthusiast on a quest to decode the stories behind the numbers. Let’s turn insights into impact!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipranavbansal&label=Profile%20views&color=0e75b6&style=flat" alt="ipranavbansal" /> </p>
 
-- 📫 How to reach me **ipranavbansal@gmail.com**
+📫 How to reach me **ipranavbansal@gmail.com**
 
 <h5 align="left">Connect with me:</h3>
 <p align="left">
