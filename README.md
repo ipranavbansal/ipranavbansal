@@ -1,5 +1,5 @@
 <h3>Hi, I'm Pranav</h1>
-<h5>Data enthusiast on a quest to decode the stories behind the numbers. Let’s turn insights into impact!</h3>
+<h5>Data enthusiast, who loves to decode the stories behind the numbers. Let’s turn insights into impact!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipranavbansal&label=Profile%20views&color=0e75b6&style=flat" alt="ipranavbansal" /> </p>
 <hr>
